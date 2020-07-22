@@ -1,0 +1,169 @@
+Restaurant ;Price;Food;Decor ;Service ;Location
+Daniella Ristorante;43;22;18;20;West
+Tello's Ristorante;32;20;19;19;West
+Biricchino;34;21;13;18;West
+Bottino;41;20;20;17;West
+Da Umberto;54;24;19;21;West
+Le Madri;52;22;22;21;West
+Le Zie;34;22;16;21;West
+Pasticcio;34;20;18;21;East
+Belluno;39;22;19;22;East
+Cinque Terre;44;21;17;19;East
+Fino;45;19;17;20;East
+Marchi's;47;21;19;21;East
+Nicola Paone;52;21;19;20;East
+Notaro;35;19;17;19;East
+Rossini's;47;20;18;21;East
+Trattoria Alba;37;21;19;21;East
+Villa Berulia;45;22;18;23;East
+Il Postino;57;24;21;22;East
+Luna Blu;38;19;17;18;East
+San Giusto;51;22;20;22;East
+Grifone;54;23;20;23;East
+Nanni's;51;23;17;21;East
+Osteria Laguna;38;20;18;18;East
+Bellini;49;22;21;21;East
+Cellini;45;22;20;22;East
+Anche Vivolo;37;19;17;19;East
+Bruno Ristorante;50;22;19;22;East
+Chianti;43;20;16;18;East
+Da Antonio Ristorante;49;22;19;20;East
+Harry Cipriani;65;21;20;20;East
+La Gioconda;34;20;16;18;East
+Bice;51;21;20;18;East
+Coco Pazzo Café;49;20;19;19;East
+DeGrezia;51;23;22;23;East
+FELIDIA;62;25;22;23;East
+Fresco by Scotto;50;23;21;21;East
+Giambelli;51;21;18;20;East
+Il Menestrello;52;22;19;22;East
+Il Nido;57;24;20;23;East
+Il Valentino;49;21;20;21;East
+Luna Piena;33;19;17;18;East
+Paper Moon Milano;43;19;17;17;East
+Teodora;41;21;17;18;East
+San Pietro;58;24;21;23;East
+Bravo Gianni;56;22;17;21;East
+Canaletto;44;22;17;21;East
+Il Gatto & La Volpe;37;20;15;20;East
+Il Valletto Due Mila;56;21;17;20;East
+Scalinatella;58;24;18;21;East
+Barbaresco;44;16;16;16;East
+Da Filippo;46;20;18;20;East
+East River Cafe;40;20;20;20;East
+Fred's at Barneys NY;39;19;18;17;East
+Il Vagabondo;36;17;14;17;East
+Mediterraneo;34;18;15;16;East
+Nello;54;18;16;15;East
+Primola;51;23;17;20;East
+Gino;41;20;14;19;East
+Via Oreto;40;22;17;20;East
+Bardolino;24;18;13;18;East
+Campagnola;53;24;20;21;East
+Cucina Vivolo;31;19;16;17;East
+Grace's Trattoria;35;18;16;17;East
+Lumi;49;20;19;19;East
+Mezzaluna;38;19;15;17;East
+Sette Mezzo;48;21;16;18;East
+Vivolo;43;20;19;20;East
+Zucchero e Pomodori;29;17;14;15;East
+Baraonda;37;17;18;15;East
+Coco Pazzo;55;22;21;20;East
+Due;37;22;18;20;East
+Il Monello;55;23;20;22;East
+Lusardi's;49;24;20;22;East
+Maruzzella;33;19;14;18;East
+Nino's;52;23;20;22;East
+Parma;47;22;16;21;East
+Il Riccio;43;21;16;20;East
+Andiamo;33;18;17;18;East
+Caffe Grazie;38;18;16;19;East
+Giovanni Venticinque;48;21;18;19;East
+Girasole;50;21;18;21;East
+Paola's;46;23;19;21;East
+Rughetta;38;23;19;24;East
+Triangolo;33;20;16;19;East
+Cafe Trevi;46;23;19;23;East
+Divino Ristorante;37;19;15;19;East
+Elio's;50;23;18;20;East
+Erminia;54;25;24;24;East
+Firenze;41;21;19;21;East
+Luca;37;21;15;18;East
+Nicola's;50;22;18;21;East
+Primavera;60;24;22;23;East
+Sirabella's;36;23;16;22;East
+Sistina;54;23;19;21;East
+Spada;39;19;18;18;East
+Trattoria Rustica;35;20;16;18;East
+Carino Ristorante;30;19;13;20;East
+Quattro Gatti;41;19;17;19;East
+Tony's Di Napoli;30;19;14;17;East
+Ecco-la;25;18;15;15;East
+Joanna's;43;19;18;21;East
+Vico;45;20;15;17;East
+Rao's;57;23;16;20;East
+Basta Pasta;32;18;15;17;West
+Campagna;51;24;21;21;East
+Follonico;48;23;20;21;East
+Ribollita;36;18;16;16;East
+Bondí Ristorante´;37;20;17;19;West
+Casa Mia;31;20;19;19;East
+Novitá;47;23;19;21;East
+Paul & Jimmy's;40;19;16;19;East
+Sal Anthony's;37;18;16;18;East
+Enoteca i Trulli;43;23;20;21;East
+I Trulli;51;23;22;21;East
+Lamarca;19;18;9;15;East
+Supreme Macaroni Co.;28;17;14;17;West
+Veronica;22;21;6;14;West
+Arno;41;19;17;19;West
+Amarone;33;19;15;18;West
+Cara Mia;29;19;15;17;West
+Casa Di Meglio;33;19;17;18;West
+La Rivista;45;19;16;18;West
+Trattoria Dopo Teatro;38;17;16;17;West
+Barbetta;52;20;23;20;West
+Becco;38;20;17;19;West
+Coco Pazzo Teatro;47;18;18;17;West
+Orso;46;22;18;20;West
+Osteria al Doge;40;20;17;18;West
+Pietrasanta;32;20;15;19;West
+Rainbow Grill;65;19;23;18;West
+Torre di Pisa;47;19;21;17;West
+San Domenico;65;23;22;22;West
+Trionfo;45;20;17;21;West
+ViceVersa;46;22;22;20;West
+Artusi;44;20;19;20;West
+Ciao Europa;40;19;19;18;West
+Limoncello;46;19;18;20;West
+Puttanesca;32;19;15;17;West
+Rino Trattoria;23;20;14;16;West
+Sette MoMA;42;18;21;17;West
+Trattoria Del Sogno;29;21;18;19;West
+Castellano;49;21;18;20;West
+Circo Osteria del;53;22;24;21;West
+Giovanni;45;22;19;21;West
+Palio;63;22;25;22;West
+Remi;52;23;23;21;West
+Tuscan Square;40;19;20;17;West
+Vago Ristorante;45;22;21;23;West
+Bello;38;21;17;20;West
+Caffe Cielo;38;18;17;18;West
+Da Tommaso;42;21;16;20;West
+Il Tinello;57;23;19;23;West
+Nocello;39;21;19;20;West
+Tino's;43;20;18;18;West
+Mangia e Bevi;29;17;14;16;West
+Patsy's;42;20;16;19;West
+Gabriel's;50;22;19;21;West
+Pappardella;34;18;16;17;West
+Ernie's;31;16;15;16;West
+Pomodoro Rosso;31;20;17;19;West
+Scaletta;46;21;19;22;West
+La Grolla,Ristorante;42;21;15;19;West
+Sambuca,Trattoria;31;19;16;18;West
+Baci;31;17;15;16;West
+Puccini;26;20;16;17;West
+Bella Luna;31;18;16;17;West
+Métisse;38;22;17;21;West
+Gennaro;34;24;10;16;West
